@@ -30,7 +30,7 @@ public class MainMonopoly {
 //		for (int i=0; i<40;i++) {
 //			fichier.write("Case "+(i+1)+" "+cases[i]+"\n");
 			
-			String line = bf.readLine();
+			String line = null;
 			while((line = bf.readLine()) !=null) {
 				String[] temp = line.split(";");
 				fichier.write("Case "+temp[2]+"\n");
