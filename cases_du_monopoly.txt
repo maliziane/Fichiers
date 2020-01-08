@@ -1,0 +1,39 @@
+Case Boulevard de Belleville
+Case Caisse de communauté
+Case Rue Lecourbe
+Case Impots
+Case Gare Montparnasse
+Case Rue de Vaugirard
+Case Chance
+Case Rue de Courcelles
+Case Rue de la République
+Case Visite en Prison
+Case Boulevard de la vilette
+Case Compagnie de Distribution d'Electricité
+Case Avenue de Neuilly
+Case Rue de Paradis
+Case Gare de lyon
+Case Avenue Mozart
+Case Caisse de Communauté
+Case Boulevard Saint-Michel
+Case Place Pigalle
+Case Parking
+Case Avenue Matignon
+Case Chance
+Case Boulevard Malesherbes
+Case Avenue Henri-Martin
+Case Gare du Nord
+Case Faubourg Saint-Honoré
+Case Place de la Bourse
+Case Compagnie de Distribution des Eaux
+Case Rue la Fayette
+Case Prison
+Case Avenue de Breteuil
+Case Avenue Foch
+Case Caisse de Communaute
+Case Boulevard des Capucines
+Case Gare Saint-Lazare
+Case chance
+Case Avenue des Champs Elysées
+Case Taxe de luxe
+Case Rue de la Paix
